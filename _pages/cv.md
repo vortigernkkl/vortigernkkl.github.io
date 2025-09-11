@@ -22,10 +22,6 @@ Work experience
 * Jul 2022 - Aug 2022: E-Commerce Operator, Zhejiang Biosan Biotech Co., Ltd
 
 * Jul 2021 - Aug 2021: Intern of MKT Intelligence Support, Syngenta Group China
-
-Publications
-======
-J-Y., Zhang, B-B., Xu, & J-X., Zheng. (2022) ‘Analysis on Consumption Changes and Reform Countermeasures of Edible Vegetable Oil in China’, China Oils and Fats, 47(3), pp. 5-10. doi:10.19902/j.cnki.zgyz.1003-7969.210640, Supported by Discipline Construction Co-ordination Project of Zhongnan University of Economics and Law in 2021 (XKHJ202118)
   
 Selected Honours and Rewards
 ======
