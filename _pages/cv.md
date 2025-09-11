@@ -36,5 +36,3 @@ Selected Honours and Rewards
 * National Scholarship, The Ministry of Education of the People's Republic of China 2020  
   
 
-======
-* Currently signed in to 43 different slack teams
