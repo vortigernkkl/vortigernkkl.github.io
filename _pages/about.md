@@ -10,4 +10,3 @@ redirect_from:
 
 I’m a first year Ph.D. student from [Department of Management and Marketing](https://www.polyu.edu.hk/mm/), [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research focuses on visual marketing, AI-human interaction, and cuteness.
 
-I am very fortunate to be advised by Prof. Yuwei Jiang.
