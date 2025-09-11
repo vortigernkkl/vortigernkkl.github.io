@@ -23,7 +23,7 @@ repository               : "vortigernkkl/Vortigernkkl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "[jingyu.png](../images/jingyu.png)"
+  avatar           : "[jingyu](../images/jingyu.png)"
   name             : "Jingyu Zhang"
   pronouns         : "she/her"  
   bio              : "Ph.D. student at The Hong Kong Polytechnic University"
